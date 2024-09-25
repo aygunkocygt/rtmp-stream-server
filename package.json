@@ -7,7 +7,7 @@
     "start": "node server.js" 
   },
   "dependencies": {
-    "node-media-server": "^2.4.9"
+    "node-media-server": "^2.7.0"
   },
   "keywords": [
     "media",
