@@ -2,11 +2,12 @@
   "name": "node-media-server",
   "version": "1.0.0",
   "description": "A media streaming server using NodeMediaServer for RTMP and HTTP streams",
-  "main": "server.js",  
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js" 
+    "start": "node server.js"
   },
   "dependencies": {
+    "express": "^4.21.0",
     "node-media-server": "^2.7.0"
   },
   "keywords": [
