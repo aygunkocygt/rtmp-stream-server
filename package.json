@@ -1,0 +1,21 @@
+{
+  "name": "node-media-server",
+  "version": "1.0.0",
+  "description": "A media streaming server using NodeMediaServer for RTMP and HTTP streams",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-media-server": "^2.4.9"
+  },
+  "keywords": [
+    "media",
+    "streaming",
+    "rtmp",
+    "http",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
